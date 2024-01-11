@@ -29,6 +29,12 @@
 ## Installation
 
 ```bash
+$ cd frontend
+$ npm i && npm run build
+```
+
+```bash
+$ cd ..
 $ npm install
 ```
 
